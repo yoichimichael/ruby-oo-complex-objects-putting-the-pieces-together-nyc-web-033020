@@ -39,7 +39,6 @@ class Book
 
 end
 
-
 # book.rb
  
 class Book
